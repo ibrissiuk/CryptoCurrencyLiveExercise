@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CryptoCurrencyLive</string>
+
+    <string name="network_unavailable">Network unavailable</string>
+    <string name="server_unavailable">Unable to reach server</string>
+    <string name="retry_network">Retry</string>
+</resources>
